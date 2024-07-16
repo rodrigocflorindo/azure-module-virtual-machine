@@ -1,0 +1,8 @@
+resource_group_name = "myResourceGroup"
+vm_name             = "myVM"
+location            = "East US"
+image_gallery_name  = "myImageGallery"
+image_definition    = "myImageDefinition_newv1"
+image_version       = "0.0.1"
+admin_username      = "adminuser"
+admin_password      = "P@ssw0rd1234"
